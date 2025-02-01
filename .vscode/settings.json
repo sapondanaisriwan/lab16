@@ -1,4 +1,11 @@
 {
     "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "*.json": "jsonc",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp"
+    }
 }
